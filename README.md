@@ -46,7 +46,7 @@ and edit api/url.dart file put your own url in baseUrl variable without "https:/
 ### Clone this repository
 
 ```bash
-$ git clone https://github.com/rainytownmedia/Flutter-Music-app.git
+$ git clone https://github.com/rainytownmedia/Flutter-Music-SimpleApp.git
 ```
 
 ### Go into the repository
